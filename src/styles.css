@@ -1,0 +1,8 @@
+body {
+  background-color: aqua;
+}
+
+.div__app {
+  display: flex;
+  flex-direction: column;
+}
